@@ -360,9 +360,9 @@ Desarrollo de:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloRivDev&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRivDev&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -372,7 +372,7 @@ Desarrollo de:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=PauloRivDev&theme=tokyonight" />
 
 </div>
 
@@ -382,7 +382,7 @@ Desarrollo de:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=PauloRivDev&theme=tokyonight&row=2&column=4" />
 
 </div>
 
@@ -408,6 +408,6 @@ Desarrollo de:
 
 ### 🚀 Siempre aprendiendo, construyendo y compartiendo conocimiento.
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas+al+perfil&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=PauloRivDev&label=Visitas+al+perfil&color=0e75b6&style=flat" />
 
 </div>
