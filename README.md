@@ -1,413 +1,430 @@
-# 👋 ¡Hola! Soy Paulo Andrés Rivas Arias
 
 <div align="center">
 
-### ☁️ Cloud & DevOps Enthusiast • 💻 Full Stack Developer • 🔐 Cybersecurity Learner • 🚀 Team Leader @ CITT
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f4c81,100:7c3aed&height=220&section=header&text=Paulo%20Rivas&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Cloud%20%7C%20DevOps&descAlignY=58&descSize=19" width="100%" />
 
-🎓 Estudiante de Ingeniería en Informática | 🇨🇱 San Bernardo, Chile
+<a href="https://github.com/PauloRivDev">
+  <img src="https://img.shields.io/badge/GitHub-PauloRivDev-111827?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/paulo-andrés-rivas-arias-343b41291/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:paulorivas1603@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+Computing+%E2%98%81%EF%B8%8F;DevOps+%26+Automatizaci%C3%B3n+%E2%9A%99%EF%B8%8F;Desarrollo+Web+Full+Stack+%F0%9F%8C%90;Ciberseguridad+%F0%9F%94%90;AWS+%7C+Docker+%7C+Linux+%7C+Django;Siempre+aprendiendo+y+creando+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Automation+%26+RPA;Cybersecurity+Learner;Team+Leader+%40+CITT;Always+building+something+new" />
+
+🎓 **Ingeniería en Informática · Duoc UC**  
+📍 San Bernardo, Chile 🇨🇱
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+<div align="center">
 
-Soy estudiante de Ingeniería en Informática apasionado por la tecnología, la infraestructura cloud, el desarrollo de software y la ciberseguridad.
+### ⚡ ABOUT ME
 
-Durante mi formación he trabajado en proyectos de desarrollo web, automatización, infraestructura cloud, bases de datos y administración de servidores Linux, buscando siempre aplicar la tecnología para resolver problemas reales.
+</div>
 
-Actualmente me encuentro profundizando mis conocimientos en AWS, DevOps, Kubernetes y Seguridad Cloud, con el objetivo de desarrollarme profesionalmente en áreas de infraestructura y arquitectura tecnológica.
+<table>
+<tr>
+<td width="50%" align="center">
 
-Además de mi formación tecnológica, cuento con más de 10 años de experiencia en producción técnica para eventos e iglesias, trabajando en sonido profesional, iluminación, proyección y streaming.
+### ☁️ Cloud & DevOps
 
----
+AWS · Docker · Linux  
+CI/CD · Infrastructure
 
-# 🏢 Experiencia y Liderazgo
+</td>
+<td width="50%" align="center">
 
-## 🚀 Líder de Equipo | CITT Duoc UC San Bernardo
+### 💻 Software Engineering
 
-Actualmente formo parte del Centro de Innovación y Transferencia Tecnológica (CITT) de Duoc UC San Bernardo, donde participo activamente en iniciativas tecnológicas, coordinación de equipos y difusión institucional.
+Python · Django · Node.js  
+APIs REST · SQL
 
-### Responsabilidades
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-* Liderazgo de equipos de trabajo.
-* Coordinación de actividades y eventos.
-* Gestión de redes sociales.
-* Apoyo a estudiantes en proyectos tecnológicos.
-* Organización de actividades de innovación.
-* Desarrollo de estrategias de comunicación digital.
+### 🤖 Automation
 
----
+Blue Prism · RPA  
+Discord Bots · AI
 
-## ⛪ Encargado de Tecnología y Producción Audiovisual
+</td>
+<td width="50%" align="center">
 
-Más de 10 años de experiencia trabajando en:
+### 🚀 Leadership
 
-* Sonido profesional.
-* Operación de consolas digitales.
-* Streaming y transmisiones en vivo.
-* Sistemas de iluminación.
-* Sistemas de proyección.
-* Producción técnica para eventos.
-* Soporte tecnológico.
+Team Leader @ CITT  
+Innovation · Collaboration
 
-Equipamiento utilizado:
-
-* PreSonus StudioLive 24.4.2
-* Soundcraft Si Expression 3
-* Soundcraft u24r
-* Sistemas de grabación multipista
-* Software de producción audiovisual
-
----
-
-## 💻 Desarrollador Full Stack Freelance
-
-Experiencia desarrollando:
-
-* Aplicaciones web.
-* Sistemas administrativos.
-* Automatización de procesos.
-* Integración de APIs.
-* Plataformas comunitarias.
-* Bots para Discord.
-* Infraestructura cloud.
-
----
-
-# ⚙️ Stack Tecnológico
-
-## 💻 Lenguajes
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
-
-### Experiencia adicional
-
-* SQL
-* PL/SQL
-* Bash
-
----
-
-## 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular" />
-</p>
-
-### Tecnologías
-
-* React
-* Angular
-* Ionic
-* HTML5
-* CSS3
-* Bootstrap
-* Tailwind CSS
-* Responsive Design
-
----
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,spring" />
-</p>
-
-### Frameworks
-
-* Django
-* Django REST Framework
-* Node.js
-* Express.js
-
-### Experiencia
-
-* APIs REST
-* Autenticación JWT
-* Integración con PayPal
-* Sistemas de gestión de usuarios
-* Arquitecturas MVC
-* Transbank Integrations
-
----
-
-## 🗄️ Bases de Datos
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Motores utilizados
-
-* MySQL
-* PostgreSQL
-* Oracle Database
-* SQLite
-* MongoDB
-* Firebase
-
-### Experiencia
-
-* Diseño relacional
-* Procedimientos almacenados
-* Funciones
-* Triggers
-* Optimización de consultas
-* PL/SQL
-
----
-
-## ☁️ Cloud Computing
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-### AWS
-
-* EC2
-* IAM
-* VPC
-* S3
-* CloudWatch
-* Elastic Load Balancer
-* Auto Scaling (conceptos)
-* Security Groups
-* Arquitecturas de tres capas
-
-### Experiencia
-
-* Despliegue de aplicaciones web
-* Seguridad básica en AWS
-* Alta disponibilidad
-
----
-
-## 🐳 DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux" />
-</p>
-
-### Herramientas
-
-* Docker
-* Docker Compose
-* GitHub Actions
-* CI/CD
-* Linux Administration
-* Bash Scripting
-* Nginx
-* Apache
-
-### Prácticas
-
-* Integración continua
-* Entrega continua
-* Automatización de despliegues
-* Gestión de contenedores
-
----
-
-## 🔐 Ciberseguridad
-
-### Conocimientos
-
-* Hardening Linux
-* Seguridad Web
-* OWASP Top 10
-* Análisis de vulnerabilidades
-* Pentesting básico
-* Seguridad Cloud
-* Redes y Seguridad
-
-### Herramientas
-
-* Kali Linux
-* VirtualBox
-* VMware
-
----
-
-## 🤖 Automatización y Bots
-
-### Tecnologías
-
-* Discord.js
-* Node.js
-* Python
-
-### Experiencia
-
-* Sistemas de tickets
-* Automatización de comunidades
-* Integraciones API
-* IA conversacional
-* Gestión de usuarios
-
----
-
-## 🎮 Desarrollo de Comunidades Gaming
-
-### Experiencia
-
-* SA-MP
-* Sistemas Roleplay
-* Paneles web
-* Foros comunitarios
-* Integración juego-web
-* Sistemas de administración
-
----
-
-## 🎨 Diseño y Multimedia
-
-### Herramientas
-
-* Photoshop
-* Figma
-
-### Producción
-
-* Streaming
-* Sonido en vivo
-* Iluminación
-* Producción audiovisual
-
----
-
-# 🏗️ Proyectos Destacados
-
-## 🌐 Plataformas Web Full Stack
-
-Desarrollo de aplicaciones utilizando:
-
-* Django
-* Spring Boot
-* React
-* SQL
-* APIs REST
-
----
-
-## 🎮 RushZone Roleplay
-
-Plataforma web para comunidad SA-MP que incluye:
-
-* Sistema de usuarios
-* Panel de facciones
-* Foro web
-* Sistema de moderación
-* Integración con PayPal
-* Gestión de personajes
-
----
-
-## 🤖 Bot de Discord Educativo
-
-Bot orientado a comunidades educativas con:
-
-* Sistema de tickets
-* IA conversacional
-* Herramientas académicas
-* Automatización de procesos
-
----
-
-## 🗄️ Oracle PL/SQL
-
-Desarrollo de:
-
-* Procedimientos almacenados
-* Funciones
-* Triggers
-* Paquetes
-* Automatización de procesos
-
----
-
-# 📚 Actualmente Aprendiendo
-
-* Kubernetes
-* Terraform
-* Observabilidad
-* Monitoreo de infraestructura
-* Seguridad Cloud
-* Arquitecturas escalables
-* DevSecOps
-* Automatización avanzada CI/CD
-
----
-
-# 🎯 Objetivos 2026
-
-* Obtener certificaciones AWS.
-* Profundizar en Cloud Engineering.
-* Especializarme en DevOps.
-* Desarrollar experiencia profesional en infraestructura cloud.
-* Contribuir a proyectos Open Source.
-* Continuar fortaleciendo conocimientos en ciberseguridad.
-* Implementar Kubernetes en entornos productivos.
-
----
-
-# 📊 Estadísticas GitHub
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloRivDev&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRivDev&layout=compact&theme=tokyonight"/>
+![Scrum](https://img.shields.io/badge/Agile-Scrum-7C3AED?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Development-Full_Stack-0EA5E9?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-Computing-0284C7?style=flat-square)
+![RPA](https://img.shields.io/badge/Automation-RPA-0891B2?style=flat-square)
 
 </div>
 
 ---
 
-# 🔥 Racha de Contribuciones
+<div align="center">
+
+## 🏅 CERTIFICATIONS
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<a href="https://www.linkedin.com/company/10497939/">
+<img src="https://img.shields.io/badge/CERTIPROF-SPOPC-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</a>
+
+**Scrum Product Owner Professional Certification**
+
+📅 OCT 2026 – OCT 2029
+
+</td>
+<td align="center" width="25%">
+
+<a href="https://www.linkedin.com/company/10497939/">
+<img src="https://img.shields.io/badge/CERTIPROF-SFPC-0D9488?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</a>
+
+**Scrum Foundation Professional Certification**
+
+📅 OCT 2026 – OCT 2029
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+<a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fpdf%2Eclassmarker%2Ecom%2Fpdf%2Fcertificate%3Fcertificate_id%3D59590%26sid%3D113013356%26nrg_id%3D1085699%26test_id%3D1774170%26aid%3D4238890%26utype%3DSD%26cert_token%3D2d2d014b30675575ccea30ca61fcaf74%26tprtoken%3D6MBX%26urlhash%3DUHQ6">
+<img src="https://img.shields.io/badge/CERTIPROF-SDPC-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</a>
+
+**Scrum Developer Professional Certification**
+
+📅 OCT 2026 – OCT 2029
+
+</td>
+<td align="center" width="25%">
+
+<a href="https://www.credly.com/badges/e0094513-ea65-434c-bd44-c3da09dc955c/linked_in_profile">
+<img src="https://img.shields.io/badge/CISCO-Python_Essentials_1-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+
+**Python Essentials 1**
+
+📅 APR 2025
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔐 Ver identificadores de mis credenciales</b></summary>
+
+| Certificación | ID |
+|---|---|
+| SPOPC | `FLLLPJPCSJQ-RGJHJFDJQ-WQWHTQWWFN` |
+| SFPC™ | `JLRRLFLSFHT-WKZNZCZHK-YTYBRQTWTG` |
+| SDPC™ | `TLZZGQHLGHZ-XPYSPMTSX-RLRPKTKTRD` |
+
+</details>
+
+---
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PauloRivDev&theme=tokyonight" />
+## 💼 EXPERIENCE
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/BANCO_FALABELLA-Practice-EC1C24?style=for-the-badge" />
+
+### 🏦 Professional Internship
+
+**Grupo Falabella · Hub Digital**
+
+- 🖥️ Windows Server environments
+- 🔄 Machine migration preparation
+- 🤖 Blue Prism & RPA
+- ⚙️ Enterprise automation
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/CITT-DUOC_UC-0284C7?style=for-the-badge" />
+
+### 🚀 Team Leader
+
+**CITT · Duoc UC San Bernardo**
+
+- 👥 Team coordination
+- 💡 Technology & innovation
+- 📱 Social media management
+- 🎯 Events and workshops
+- 🤝 Student collaboration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/FREELANCE-FULL_STACK-7C3AED?style=for-the-badge" />
+
+### 💻 Software Development
+
+- 🌐 Web applications
+- 🔌 REST API integrations
+- 🗄️ Database design
+- 🤖 Bots & automation
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/10%2B_YEARS-AUDIOVISUAL-0891B2?style=for-the-badge" />
+
+### 🎚️ Technical Production
+
+- 🎛️ Digital audio consoles
+- 🎥 Live streaming
+- 💡 Lighting & projection
+- 🔊 Sound engineering
+- 🛠️ Technical support
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧰 TECH STACK
+
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,bash&theme=dark" />
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,angular,ionic,bootstrap,tailwind&theme=dark" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,spring&theme=dark" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase&theme=dark" />
+
+<img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/PL%2FSQL-Development-F80000?style=flat-square" />
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx,githubactions,git,github&theme=dark" />
+
+### 🔐 Cybersecurity & Virtualization
+
+<img src="https://skillicons.dev/icons?i=kali,linux,docker&theme=dark" />
+
+<img src="https://img.shields.io/badge/OWASP-Web_Security-000000?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=flat-square&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Blue_Prism-RPA-0072C6?style=flat-square" />
+
+### 🤖 Bots & Integrations
+
+<img src="https://img.shields.io/badge/Discord.js-Bots-5865F2?style=flat-square&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-Integration-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-Authentication-black?style=flat-square&logo=jsonwebtokens" />
 
 </div>
 
 ---
 
-# 🏆 Trofeos GitHub
+<div align="center">
+
+## 🚀 FEATURED PROJECTS
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://eventorlive.cl">
+<img src="https://img.shields.io/badge/🎟️_EVENTOR_LIVE-Event_Technology-2563EB?style=for-the-badge" />
+</a>
+
+### 🎟️ Eventor Live
+
+**Digital event management & access control**
+
+- 🎫 Digital tickets & QR validation
+- 💳 Transbank integration
+- ⚙️ Automated workflows
+- 📊 Event management
+
+`Django` `Python` `MariaDB` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/PauloRivDev">
+<img src="https://img.shields.io/badge/🤖_PASARAMOS-Education_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+### 🤖 PasaRamos
+
+**Educational Discord assistant**
+
+- 📚 Grades & evaluations
+- 🧠 Conversational AI
+- 🏆 XP, achievements & streaks
+- ⏱️ Academic productivity
+
+`Node.js` `Discord.js` `MySQL` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🎮_RUSHZONE_ROLEPLAY-Gaming-DC2626?style=for-the-badge" />
+
+### 🎮 RushZone Roleplay
+
+**SA-MP community platform**
+
+- 👤 User & character management
+- 🛡️ Moderation tools
+- 🏢 Faction panels
+- 🌐 Web-community integration
+
+`Web Development` `SQL` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🗄️_ORACLE_PL%2FSQL-Database_Engineering-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+### 🗄️ Database Solutions
+
+**Database design & automation**
+
+- ⚡ Stored procedures
+- 🔧 Functions & triggers
+- 📦 PL/SQL packages
+- 📈 Query optimization
+
+`Oracle` `SQL` `PL/SQL`
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PauloRivDev&theme=tokyonight&row=2&column=4" />
+## 📊 GITHUB ANALYTICS
+
+<a href="https://github.com/PauloRivDev">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PauloRivDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
+<a href="https://github.com/PauloRivDev">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRivDev&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=PauloRivDev&theme=tokyonight&hide_border=true" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=PauloRivDev&theme=tokyonight&no-frame=true&row=1&column=6" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloRivDev&theme=tokyo-night&hide_border=true" width="98%" />
 
 </div>
 
 ---
 
-# 🌱 Filosofía
+<div align="center">
 
-> "La tecnología tiene mayor impacto cuando se utiliza para resolver problemas reales, ayudar a las personas y generar nuevas oportunidades."
+## 🌱 CURRENTLY EXPLORING
 
----
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 
-# 🤝 Conectemos
+<img src="https://img.shields.io/badge/DevSecOps-Security-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS-Cloud_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-💼 LinkedIn: https://www.linkedin.com/in/paulo-andrés-rivas-arias-343b41291/
+### 🎯 2026 Goals
 
-📧 Correo: paulorivas1603@gmail.com
+`AWS Certifications` · `Cloud Engineering` · `DevOps`  
+`Infrastructure as Code` · `Open Source` · `Cloud Security`
 
-🎮 Discord: pauloriv
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Siempre aprendiendo, construyendo y compartiendo conocimiento.
+## 🎮 BEYOND THE CODE
 
-<img src="https://komarev.com/ghpvc/?username=PauloRivDev&label=Visitas+al+perfil&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/badge/🎚️_Live_Audio-Production-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎥_Streaming-Audiovisual-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎮_Gaming-Communities-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎨_Design-Photoshop_%26_Figma-DB2777?style=for-the-badge" />
+
+<br/><br/>
+
+> *“La tecnología tiene mayor impacto cuando se utiliza para resolver problemas reales, ayudar a las personas y generar nuevas oportunidades.”*
+
+### 🤝 LET'S BUILD SOMETHING GREAT
+
+<a href="https://www.linkedin.com/in/paulo-andrés-rivas-arias-343b41291/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:paulorivas1603@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://github.com/PauloRivDev">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PauloRivDev&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
+
+<br/><br/>
+
+**PauloRivDev** · Built with curiosity, coffee & code. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0f4c81,100:020617&height=120&section=footer" width="100%" />
 
 </div>
